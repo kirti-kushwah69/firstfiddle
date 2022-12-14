@@ -1,0 +1,198 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.navbar{
+	background: #00000082!important;
+}
+    	.navbar-nav li{
+    		padding: 0 10px;
+    	}
+    	.navbar-nav li a{
+    		color: #fff!important;
+    		font-weight: 400;
+    		font-size: 20px;
+    	}
+    	.b{
+    		text-align: center;
+    	}
+    	.weblogo{
+    		width: 65px;
+    	}
+    	.moblogo{
+    		display: none;
+    	}
+    	.img{
+    		width: 75%;
+    	}
+    	@media(max-width: 768px)
+    	{
+    		.moblogo{
+    		display: block;
+    	    }
+    	    .weblogo{
+    		display: none;
+    	    }
+    	    .navbar{
+    	    	background: #fcb21c!important;
+    	    }
+    	    .img{
+    		width: 75%;
+         	}
+    	}
+.carousel-caption{
+    color: #fff;
+    position: absolute;
+    top: 27%;
+    left: 153px;
+}
+h2{
+    font-size: 70px;
+    /border-bottom-style: ridge;/
+    font-weight: bold;
+    /border-bottom-color: #82c434;/
+    text-transform: uppercase;
+}
+.m1{
+	font-family: sans-serif;
+	margin-top: 20px;
+	letter-spacing: 3px;
+}
+.p{
+	margin-top: 36px;
+	font-size: 16px;
+	font-family: 'Montserrat',sans-serif;
+	letter-spacing: 2px;
+	line-height: 40px;
+	word-spacing: 1px;
+	text-align: justify;
+}
+.webimg{
+	width: 80%;
+}
+.ob1{
+	/*margin-top: 110px;*/
+    color: white;
+    font-weight: 500;
+    font-size: 17px;
+    background: #fbaa1a;
+    box-shadow: -4px 5px 21px #808080ba;
+}
+.why{
+	background: url(https://www.firstfiddle.in/assets/images/bannerabout.jpg);
+	background-size: cover;
+	background-position: center;
+	/*height: 500px;*/
+	width: 100%;
+	margin-top: 40px;
+	margin-bottom: 30px;
+}
+.me{
+	margin-top: 120px;
+	/*padding-top: 20px;*/
+    font-family: 'prague';
+    letter-spacing: 3px;
+    font-size: 40px;
+    text-align: center;
+    font-weight: 600;
+}
+.me1{
+	font-size: 18px;
+	text-align: center;
+	font-weight: 100;
+    line-height: 40px;
+    letter-spacing: 1px;
+}
+.exp{
+	padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+    font-size: 40px;
+    text-align: center;
+}
+.img3{
+	width: 263px;
+	margin-top: 35px;
+}
+.why1{
+	background: url(https://www.firstfiddle.in/assets/images/outletbanner.png);
+	background-position: center;
+	background-size: cover;
+	width: 100%;
+	/*height: 500px;*/
+}
+.me3{
+	margin-top: 120px;
+	/*padding-top: 20px;*/
+    font-family: 'prague';
+    letter-spacing: 3px;
+    font-size: 40px;
+    text-align: center;
+    font-weight: 600;
+}
+.me4{
+	font-size: 18px;
+	text-align: center;
+	font-weight: 100;
+    line-height: 40px;
+    letter-spacing: 1px;
+}
+.mainfooter{
+	background: #020306f0;
+    padding: 50px;
+    color: #fff;
+}
+.img1{
+	width: 50%;
+	margin-top: 30px;
+}
+.ml-3{
+    font-family: 'prague';
+	font-size: 40px;
+	line-height: 50px;
+    letter-spacing: 3px;
+	color: #fff;
+}
+.p1{
+	font-size: 16px;
+	line-height: 28px;
+	letter-spacing: 1px;
+	text-align: justify;
+    color: #fff;
+}
+.foot-add{
+	padding: 15px;
+}
+.strg{
+	color: #fcb21b;
+	font-family: 'Montserrat',sans-serif;
+	font-weight: 200;
+	font-size: 18px;
+}
+.a{
+	color: #fcb21b;
+	text-decoration: none;
+	font-size: 18px;
+}
+.icon{
+	color: #fcb21b;
+	font-size: 2em;
+}
+.footer{
+	background-color: #000;
+	padding-top: 27px;
+	padding-bottom: 17px;
+}
+.bl{
+	font-size: 14px;
+    color: white;
+    line-height: 28px;
+    letter-spacing: 1px;
+    font-weight: 400;
+}
+.bl1{
+	color: #fff;
+	text-decoration: none;
+}
